@@ -116,53 +116,158 @@ Output
 
 ## 8. Key Insights
 
-#### **Financial Performance**
+### Dashboard 2: Wellbeing & Work Patterns.
 <img width="2247" height="1270" alt="2" src="https://github.com/user-attachments/assets/d9086657-cada-48b7-acb5-3b0f444c3097" />
 
-**Profit Recovery Driven by Structural Cost Efficiency**
+- #### Overtime is the clearest early warning signal for burnout
 
-**Pattern:** Revenue and operating expenses declined during COVID-19, but in the post-COVID period, profit grew at a faster rate than both, with a visibly widening gap between revenue and costs.
+  - ***Pattern:***
+Employees working higher overtime hours consistently show lower work-life balance scores, and a higher proportion of burnout risk (more high-risk cases appear as overtime increases).
 
-**Interpretation:** The divergence between revenue and operating expenses indicates that companies improved cost structures during the crisis reducing or optimizing expenses and maintained this efficiency during recovery.
+  - ***Interpretation:***
+This suggests burnout is not random, it is strongly linked to workload pressure. Employees are not necessarily disengaged; they are overextended.
 
-**Impact:** Profit growth is being driven by structural efficiency rather than top-line expansion. This suggests more resilient and scalable operations, positioning companies to sustain profitability even under future economic pressure.
-
-**Post-COVID Strengthening of Financial Structure**
-
-**Pattern:** Assets, liabilities, and equity declined during the COVID-19 period, followed by a strong recovery, with equity growing at a more stable pace relative to liabilities.
-
-**Interpretation:** During the crisis, companies adjusted balance sheets by limiting growth and preserving capital. In the recovery phase, equity accumulation outpaced reliance on debt, indicating a shift toward stronger internal financing.
-
-**Impact:** The post-COVID period reflects a structurally stronger financial position, with improved balance sheet resilience and reduced dependence on leverage, lowering overall financial risk.
+  - ***Impact:***
+Overtime becomes a leading indicator HR can monitor proactively. Managing workload and overtime is likely the fastest way to reduce burnout risk before it escalates into turnover.
 
 ---
-#### **COVID-19 Shock and Fast Recovery**
+- #### Burnout risk is concentrated in specific roles, not evenly distributed
+
+   - ***Pattern:***
+The heatmap shows higher burnout values clustered in roles like Software Engineers, Sales Executives, and certain IT-related positions, while others remain consistently low.
+
+   - ***Interpretation:***
+Burnout is role-driven rather than organization-wide. Some roles naturally carry higher pressure, expectations, or workload intensity.
+
+   - ***Impact:***
+A one-size-fits-all wellbeing strategy will not work. HR should focus targeted interventions on high-risk roles, rather than applying broad policies across all employees.
+
+---
+- #### Moderate overtime is common, extreme cases are the real risk
+
+   - ***Pattern:***
+Most employees fall within a moderate overtime range (around 2–4 hours), with relatively fewer employees at extreme levels.
+
+  - ***Interpretation:***
+The organization’s overall workload looks manageable at a high level, but outliers (employees with very high overtime) are driving burnout risk.
+
+   - ***Impact:***
+Instead of reducing overtime across the board, HR should identify and act on extreme cases, where intervention will have the highest impact.
+
+---
+- #### Work-life balance is the strongest differentiator between low and high burnout groups
+
+   - ***Pattern:***
+Employees with high work-life balance scores are mostly in the low burnout category, while those with lower scores appear more frequently in medium and high-risk groups.
+
+   - ***Interpretation:***
+Work-life balance is not just a “nice-to-have” metric, it directly reflects employee wellbeing and risk exposure.
+
+   - ***Impact:***
+Improving work-life balance (through flexibility, workload management, or policy changes) is likely to have a direct and measurable effect on reducing burnout.
+
+---
+### **Dashboard 3: Growth, Rewards & Fairness**
 <img width="2220" height="1260" alt="3" src="https://github.com/user-attachments/assets/6a523833-8ed5-4c00-8288-a819bad089be" />
 
-**Pattern:** Revenue, EBIT, and Net Profit dropped clearly in 2020, then bounced back quickly and even exceeded pre-COVID levels by 2021–2022.
+- #### Promotion outcomes are uneven across departments and genders
+  - ***Pattern:***
+Promotion rates vary significantly by department, with noticeable differences between male and female employees in several areas (e.g., IT, Engineering, Operations).
 
-**Interpretation:** All key metrics falling at the same time shows how widespread the impact was. But the quick rebound suggests companies adapted fast and were supported during the crisis.
+  - ***Interpretation:***
+Career progression is not consistent across the organization. These differences may reflect structural imbalances, role pipelines, or potential bias in promotion practices.
 
-**Impact:** The downturn didn’t last long. Most companies recovered quickly and returned to growth, which points to a strong and resilient business environment.
+  - ***Impact:***
+This introduces a fairness risk. If left unaddressed, it can reduce trust, lower motivation, and impact retention especially among underrepresented groups.
+________________________________________
+- #### Training does not consistently turn into promotions
+  - ***Pattern:***
+Employees with zero training hours show relatively high promotion percentages, while increased training hours do not clearly lead to higher promotion rates.
 
+  - ***Interpretation:***
+Training programs may not be aligned with promotion criteria, or promotions may depend more on experience, visibility, or role demand than formal development.
+
+  - ***Impact:***
+This creates a disconnect between effort and reward. HR should reassess whether training is effectively supporting career progression or simply acting as a formality.
+________________________________________
+- #### Compensation increases with level but variability suggests inconsistencies
+  - ***Pattern:***
+Salary ranges generally rise with job level, but there is noticeable spread (min–max range) within each level.
+
+  - ***Interpretation:***
+While the pay structure appears tiered, the wide variation within levels may indicate inconsistent compensation practices or negotiation-based differences.
+
+  - ***Impact:***
+This can lead to perceived inequity, even if the overall structure is sound. Transparency and clearer salary bands may help reduce this risk.
+________________________________________
+- #### Some departments combine high workload risk with unclear reward signals
+  - ***Pattern:***
+When combined with earlier findings (burnout + promotions), certain departments show both higher workload pressure and inconsistent promotion outcomes.
+
+  - ***Interpretation:***
+Employees in these areas may feel they are working more without proportional recognition or advancement.
+
+  - ***Impact:***
+This is a high-risk retention zone. Employees in these roles are more likely to disengage or leave if effort is not matched with growth opportunities.
 ---
-#### **Financial Stability Varies Significantly Across Industries**
+### **Dashboard 4: Detailed Overview**
 <img width="2255" height="1262" alt="4" src="https://github.com/user-attachments/assets/1de72872-1cc3-4ac9-a98b-d3de1244427e" />
 
-**Pattern:** 
-- **Revenue:** Wholesale trade (~17M) and mining (~13M) generate the highest revenues, followed by manufacturing (~8M). However, manufacturing also carries high liabilities relative to its size.
-- **Profitability Efficiency:** Real estate and mining hold the largest asset bases, while sectors such as education and other services operate with low assets, equity, and margins.
-- **Financial Stability:** Real estate achieves the highest net margins and holds strong equity levels (>15M), despite not being the top revenue generator. Smaller or niche categories also show disproportionately high margins.
+- #### Employee satisfaction is stable across countries, with only minor variation
+  - ***Pattern:***
+Average rating scores across Norway, Sweden, Denmark, and Finland are very close (~3.05–3.12), with similar distribution patterns.
 
-**Interpretation:**
-- High-revenue industries are often capital-intensive and require significant ongoing investment, leading to higher financial obligations and risk exposure.
-- Profitability is driven more by business model efficiency than by revenue scale. Asset-based sectors like real estate benefit from stable income streams and lower operating costs.
-- Capital-intensive industries build financial buffers through assets, while service-based sectors operate with limited reserves and higher vulnerability to shocks.
-  
-**Impact:**
-- Revenue alone is not a reliable indicator of financial health. High-revenue sectors like manufacturing may face tighter margins and higher risk, requiring closer monitoring of leverage and cost structure.
-- High-margin sectors represent more sustainable values. Investors and decision-makers should prioritize efficiency metrics (e.g., margins, returns) over revenue size when assessing performance.
-- Financial resilience is uneven across industries. Asset-heavy sectors are better positioned to absorb economic shocks, while smaller service sectors may require external support during downturns.
+  - ***Interpretation:***
+Employee experience is relatively consistent across regions, suggesting that company-wide policies and culture are broadly aligned.
+
+  - ***Impact:***
+Major interventions do not need to be country specific. HR can focus on role  and workload-based improvements rather than geographic differences.
+________________________________________
+- #### Work-life balance and job satisfaction are strong, but not exceptional
+  - ***Pattern:***
+Most responses fall into “Neutral” and “Good” categories, with fewer “Very Good” ratings.
+
+  - ***Interpretation:***
+Employees are generally satisfied, but not highly engaged or delighted. There is room to improve from “acceptable” to “excellent.”
+
+  - ***Impact:***
+This represents an opportunity zone, not a crisis. Small improvements could significantly boost overall engagement.
+________________________________________
+- #### Performance ratings are high, but may lack differentiation
+  - ***Pattern:***
+A large majority of employees are rated positively in performance (strong skew toward high ratings).
+
+  - ***Interpretation:***
+Performance evaluations may be inflated or not sufficiently differentiated between employees.
+
+  - ***Impact:***
+This reduces the effectiveness of performance as a tool for:
+       - Promotions 
+       - ompensation decisions 
+       - Talent identification 
+________________________________________
+- #### Workforce distribution is concentrated in key departments and countries
+  - ***Pattern:***
+Norway has the largest workforce and payroll, with Engineering and IT having the highest headcounts.
+
+  - ***Interpretation:***
+Business operations are heavily dependent on a few core regions and technical departments.
+
+  - ***Impact:***
+This creates concentration risk  any issues in these areas (burnout, turnover) will have a disproportionate business impact.
+________________________________________
+- #### Workforce demographics show a mid-career heavy population
+  - ***Pattern:***
+Age distribution is centred around mid-30s to early 40s.
+  - ***Interpretation:***
+The workforce is experienced but may soon face:
+       - Career plateau risks 
+       - Increased demand for growth opportunities 
+  - ***Impact:***
+HR should focus on:
+      - Career progression pathways 
+      - Leadership development 
+      - Retention strategies for experienced talent 
 
 ---
 
