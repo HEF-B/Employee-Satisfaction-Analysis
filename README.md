@@ -52,7 +52,7 @@ Overall, the dashboard enables HR teams to quickly identify risk areas, compare 
 | Analysis        | Power BI (DAX) |
 | Visualization   | Power BI                           |
 | Version Control | Git / GitHub                       |
-| Documentation   | Markdown                           |
+| Documentation   | README                           |
 
 
 ## 5. Repository Structure
