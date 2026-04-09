@@ -275,13 +275,13 @@ HR should focus on:
 
 | Priority | Recommendation                                                      | Based On                                                           | Suggested Owner      |
 | -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------- |
-| High     | Reduce excessive overtime across teams to prevent burnout           | *“Overtime Impact on Work-Life Balance & Burnout Risk”*            | HR / Team Leads      |
-| High     | Identify and support employees in high burnout risk category (~4%)  | *“Burnout Risk Distribution”*                                      | HR                   |
-| High     | Focus burnout prevention efforts on IT and Engineering roles        | *“Burnout Hotspots by Department and Role”*                        | HR / Tech Leadership |
-| Medium   | Review promotion fairness across departments and genders            | *“Promotions & Promoted Last Year (%) by Department and Gender”*   | HR                   |
-| Medium   | Align training programs with promotion outcomes                     | *“Promoted Last Year (%) by Training Hours”*                       | HR                   |
-| Medium   | Monitor salary ranges to ensure fair compensation across job levels | *“Monthly Income Distribution by Job Level”*                       | HR / Finance         |
-| Low      | Track regional differences in burnout and satisfaction trends       | *“Burnout Risk by Country”* & *“Rating Distribution by Countries”* | HR                   |
+| High     | Reduce excessive overtime across teams to prevent burnout           | *Overtime Impact on Work-Life Balance & Burnout Risk*            | HR / Team Leads      |
+| High     | Identify and support employees in high burnout risk category (~4%)  | *Burnout Risk Distribution*                                      | HR                   |
+| High     | Focus burnout prevention efforts on IT and Engineering roles        | *Burnout Hotspots by Department and Role*                        | HR / Tech Leadership |
+| Medium   | Review promotion fairness across departments and genders            | *Promotions & Promoted Last Year (%) by Department and Gender*   | HR                   |
+| Medium   | Align training programs with promotion outcomes                     | *Promoted Last Year (%) by Training Hours*                       | HR                   |
+| Medium   | Monitor salary ranges to ensure fair compensation across job levels | *Monthly Income Distribution by Job Level*                       | HR / Finance         |
+| Low      | Track regional differences in burnout and satisfaction trends       | *Burnout Risk by Country* & *Rating Distribution by Countries* | HR                   |
 
 
 ## 10. Assumptions & Limitations
